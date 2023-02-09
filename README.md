@@ -2,7 +2,7 @@
 
 
 
-## Author
+## Designed by
 
 [@koladechris](https://www.twitter.com/koladechris)
 
