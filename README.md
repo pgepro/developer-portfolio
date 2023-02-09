@@ -1,7 +1,5 @@
 # DEVELOPER PORTFOLIO
 
-A portfolio website template for campers
-
 ![jane-doe](jane-shot.png)
 
 ## Author
@@ -44,7 +42,7 @@ The JavaScript functions are commented too, so you will know what the functions 
 
 I used Ion Icons and Icons8 for the icons, but feel free to use fontawesome or any other icon library you want.
 
-For the form submission, formspree was used. You can get a hands-on tutorial on how to use formspree by watching this [YouTube video](https://formspree.io/). Submissions will be delivered straignt into the specified Gmail account.
+For the form submission, formspree was used. You can get a hands-on tutorial on how to use formspree by watching this [YouTube video](https://formspree.io/). Submissions will be delivered straight into the specified Gmail account.
 
 In addition to formspree, you can also use Netlify form submission in case you deploy there. Brad Traversy has a [video tutorial](https://www.youtube.com/watch?v=6ElQ689HRcY) on how to do it.
 
