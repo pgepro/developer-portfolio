@@ -1,6 +1,6 @@
 # DEVELOPER PORTFOLIO
 
-![jane-doe](jane-shot.png)
+![jane-doe](screen.png)
 
 ## Author
 
