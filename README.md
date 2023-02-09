@@ -1,6 +1,6 @@
 # DEVELOPER PORTFOLIO
 
-![jane-doe](screen.png)
+![jane-doe](screen2.png)
 
 ## Designed by
 
